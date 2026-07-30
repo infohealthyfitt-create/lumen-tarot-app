@@ -13,7 +13,7 @@ export default function MajorArcanaPage() {
     <div className="mx-auto max-w-5xl px-4 py-12">
       <h1 className="mb-2 text-center font-display text-3xl text-starlight">Major Arcana</h1>
       <p className="mb-10 text-center text-sm text-starlight/60">
-        The 22 Major Arcana represent life's larger themes and turning points, from The Fool&rsquo;s new beginning to The World&rsquo;s completion.
+        The 22 Major Arcana represent life&rsquo;s larger themes and turning points, from The Fool&rsquo;s new beginning to The World&rsquo;s completion.
       </p>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
         {MAJOR_ARCANA.map((c) => (
