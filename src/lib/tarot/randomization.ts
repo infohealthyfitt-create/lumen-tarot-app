@@ -13,7 +13,6 @@ function secureRandomInt(max: number): number {
     return arr[0] % max;
   }
   // Node fallback (server components / API routes)
-  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const nodeCrypto = require('crypto');
   return nodeCrypto.randomInt(0, max);
 }
