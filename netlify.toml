@@ -1,0 +1,22 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# The Next.js runtime plugin automatically converts:
+# - src/app/**/route.ts (API routes) into Netlify Functions
+# - dynamic routes (e.g. /tarot-card-meanings/[card]) into on-demand
+#   builders / functions, so refreshing a dynamic URL will NOT 404.
+#
+# Stripe webhook route (src/app/api/webhooks/stripe/route.ts) reads the
+# raw request body via `await req.text()` BEFORE any JSON parsing, which
+# is required for Next.js App Router route handlers running on Netlify
+# Functions and preserves the payload needed for signature verification.
+
+[context.production.environment]
+  NEXT_PUBLIC_SITE_URL = "https://REPLACE-WITH-PRODUCTION-DOMAIN"
+
+[context.deploy-preview.environment]
+  NEXT_PUBLIC_SITE_URL = "$DEPLOY_PRIME_URL"
