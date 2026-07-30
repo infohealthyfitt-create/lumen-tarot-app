@@ -1,0 +1,1921 @@
+[
+  {
+    "id": 1,
+    "name": "The Fool",
+    "slug": "the-fool",
+    "arcana": "major",
+    "number": 0,
+    "suit": null,
+    "upright_keywords": [
+      "new beginnings",
+      "spontaneity",
+      "innocence",
+      "a leap of faith"
+    ],
+    "reversed_keywords": [
+      "recklessness",
+      "hesitation",
+      "poor judgment",
+      "naivety"
+    ],
+    "upright_meaning": "The Fool represents a fresh start and the willingness to step into the unknown with an open heart, trusting the journey even without a fixed plan.",
+    "reversed_meaning": "Reversed, The Fool can point to hesitation, impulsiveness without reflection, or a fear of taking the first step.",
+    "love_meaning": "A new connection or a lighter, more spontaneous chapter in love may be beginning.",
+    "career_meaning": "An invitation to consider a new path or opportunity, even if the destination isn't fully mapped out.",
+    "money_meaning": "A reminder to approach spending or new ventures with curiosity, but also basic caution.",
+    "general_meaning": "The Fool represents a fresh start and the willingness to step into the unknown with an open heart, trusting the journey even without a fixed plan.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-fool.svg"
+  },
+  {
+    "id": 2,
+    "name": "The Magician",
+    "slug": "the-magician",
+    "arcana": "major",
+    "number": 1,
+    "suit": null,
+    "upright_keywords": [
+      "manifestation",
+      "resourcefulness",
+      "willpower",
+      "skill"
+    ],
+    "reversed_keywords": [
+      "manipulation",
+      "untapped potential",
+      "poor planning"
+    ],
+    "upright_meaning": "The Magician suggests you already have the tools, skills, and resources needed to move forward; it's a card of focused intention becoming action.",
+    "reversed_meaning": "Reversed, it may point to scattered energy, unused talent, or a gap between intention and follow-through.",
+    "love_meaning": "You may have more influence over the direction of this connection than you realize.",
+    "career_meaning": "A moment to actively use your skills and take initiative rather than waiting.",
+    "money_meaning": "Encourages resourcefulness and confidence in using what you already have.",
+    "general_meaning": "The Magician suggests you already have the tools, skills, and resources needed to move forward; it's a card of focused intention becoming action.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-magician.svg"
+  },
+  {
+    "id": 3,
+    "name": "The High Priestess",
+    "slug": "the-high-priestess",
+    "arcana": "major",
+    "number": 2,
+    "suit": null,
+    "upright_keywords": [
+      "intuition",
+      "mystery",
+      "inner knowing",
+      "stillness"
+    ],
+    "reversed_keywords": [
+      "secrets",
+      "disconnection from intuition",
+      "withheld information"
+    ],
+    "upright_meaning": "The High Priestess invites you to trust quiet inner knowing over noise, and to sit with a question rather than rush an answer.",
+    "reversed_meaning": "Reversed, it can suggest ignoring your intuition or information that is being kept hidden.",
+    "love_meaning": "Feelings may be present but not yet openly expressed by one or both people.",
+    "career_meaning": "Suggests patience \u2014 some information may not be ready to be revealed yet.",
+    "money_meaning": "A caution against decisions made without full information; more may be beneath the surface.",
+    "general_meaning": "The High Priestess invites you to trust quiet inner knowing over noise, and to sit with a question rather than rush an answer.",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/major/the-high-priestess.svg"
+  },
+  {
+    "id": 4,
+    "name": "The Empress",
+    "slug": "the-empress",
+    "arcana": "major",
+    "number": 3,
+    "suit": null,
+    "upright_keywords": [
+      "abundance",
+      "nurturing",
+      "creativity",
+      "growth"
+    ],
+    "reversed_keywords": [
+      "creative block",
+      "overdependence",
+      "neglect"
+    ],
+    "upright_meaning": "The Empress reflects abundance, nurturing, and creative growth \u2014 a season where care and patience help things flourish.",
+    "reversed_meaning": "Reversed, it may point to feeling creatively blocked, depleted, or overly self-critical.",
+    "love_meaning": "A warm, nurturing energy that may deepen emotional closeness.",
+    "career_meaning": "Growth-oriented energy; a good period for creative or collaborative work.",
+    "money_meaning": "Suggests steady, well-tended growth rather than quick wins.",
+    "general_meaning": "The Empress reflects abundance, nurturing, and creative growth \u2014 a season where care and patience help things flourish.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-empress.svg"
+  },
+  {
+    "id": 5,
+    "name": "The Emperor",
+    "slug": "the-emperor",
+    "arcana": "major",
+    "number": 4,
+    "suit": null,
+    "upright_keywords": [
+      "structure",
+      "authority",
+      "stability",
+      "discipline"
+    ],
+    "reversed_keywords": [
+      "rigidity",
+      "control issues",
+      "lack of discipline"
+    ],
+    "upright_meaning": "The Emperor represents structure, stability, and clear boundaries \u2014 the value of building something on a solid foundation.",
+    "reversed_meaning": "Reversed, it can suggest excessive control, rigidity, or a lack of structure where it's needed.",
+    "love_meaning": "May point to a desire for stability, commitment, or clearer boundaries.",
+    "career_meaning": "Favors planning, structure, and disciplined follow-through.",
+    "money_meaning": "Suggests a methodical, cautious approach rather than a risky one.",
+    "general_meaning": "The Emperor represents structure, stability, and clear boundaries \u2014 the value of building something on a solid foundation.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-emperor.svg"
+  },
+  {
+    "id": 6,
+    "name": "The Hierophant",
+    "slug": "the-hierophant",
+    "arcana": "major",
+    "number": 5,
+    "suit": null,
+    "upright_keywords": [
+      "tradition",
+      "guidance",
+      "learning",
+      "shared values"
+    ],
+    "reversed_keywords": [
+      "breaking convention",
+      "rigidity",
+      "questioning tradition"
+    ],
+    "upright_meaning": "The Hierophant speaks to tradition, mentorship, and shared belief systems \u2014 learning from established wisdom.",
+    "reversed_meaning": "Reversed, it may reflect a wish to break from convention or question inherited beliefs.",
+    "love_meaning": "May reflect shared values or a relationship grounded in tradition or commitment.",
+    "career_meaning": "Suggests mentorship, formal training, or working within established structures.",
+    "money_meaning": "Favors conventional, well-tested approaches.",
+    "general_meaning": "The Hierophant speaks to tradition, mentorship, and shared belief systems \u2014 learning from established wisdom.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-hierophant.svg"
+  },
+  {
+    "id": 7,
+    "name": "The Lovers",
+    "slug": "the-lovers",
+    "arcana": "major",
+    "number": 6,
+    "suit": null,
+    "upright_keywords": [
+      "connection",
+      "choice",
+      "alignment",
+      "values"
+    ],
+    "reversed_keywords": [
+      "misalignment",
+      "disharmony",
+      "a difficult choice"
+    ],
+    "upright_meaning": "The Lovers speaks to meaningful connection and the choices that align with your deeper values.",
+    "reversed_meaning": "Reversed, it can point to misalignment, disconnection, or a decision that feels unresolved.",
+    "love_meaning": "Often points directly to attraction, partnership, or a significant choice in relationships.",
+    "career_meaning": "May represent a values-based decision, such as a partnership or collaboration.",
+    "money_meaning": "Suggests weighing a decision against what truly matters to you.",
+    "general_meaning": "The Lovers speaks to meaningful connection and the choices that align with your deeper values.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-lovers.svg"
+  },
+  {
+    "id": 8,
+    "name": "The Chariot",
+    "slug": "the-chariot",
+    "arcana": "major",
+    "number": 7,
+    "suit": null,
+    "upright_keywords": [
+      "determination",
+      "willpower",
+      "focus",
+      "forward motion"
+    ],
+    "reversed_keywords": [
+      "lack of direction",
+      "aggression",
+      "loss of control"
+    ],
+    "upright_meaning": "The Chariot reflects determination and forward momentum \u2014 success through focused will, even amid opposing forces.",
+    "reversed_meaning": "Reversed, it may suggest scattered direction or forcing an outcome rather than steering it.",
+    "love_meaning": "Suggests pursuing what you want in a relationship with clarity and resolve.",
+    "career_meaning": "Favors determined, focused pursuit of a goal.",
+    "money_meaning": "Suggests disciplined, goal-driven decisions.",
+    "general_meaning": "The Chariot reflects determination and forward momentum \u2014 success through focused will, even amid opposing forces.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-chariot.svg"
+  },
+  {
+    "id": 9,
+    "name": "Strength",
+    "slug": "strength",
+    "arcana": "major",
+    "number": 8,
+    "suit": null,
+    "upright_keywords": [
+      "courage",
+      "patience",
+      "compassion",
+      "inner resilience"
+    ],
+    "reversed_keywords": [
+      "self-doubt",
+      "impatience",
+      "insecurity"
+    ],
+    "upright_meaning": "Strength reflects quiet courage and resilience \u2014 influence through patience and compassion rather than force.",
+    "reversed_meaning": "Reversed, it may point to self-doubt or feeling overwhelmed.",
+    "love_meaning": "Suggests gentleness, patience, and compassion in navigating this connection.",
+    "career_meaning": "Favors calm persistence over forceful action.",
+    "money_meaning": "Suggests steady, patient handling of financial matters.",
+    "general_meaning": "Strength reflects quiet courage and resilience \u2014 influence through patience and compassion rather than force.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/strength.svg"
+  },
+  {
+    "id": 10,
+    "name": "The Hermit",
+    "slug": "the-hermit",
+    "arcana": "major",
+    "number": 9,
+    "suit": null,
+    "upright_keywords": [
+      "introspection",
+      "solitude",
+      "guidance",
+      "reflection"
+    ],
+    "reversed_keywords": [
+      "isolation",
+      "loneliness",
+      "withdrawal"
+    ],
+    "upright_meaning": "The Hermit invites a period of introspection \u2014 stepping back to seek your own answers before acting.",
+    "reversed_meaning": "Reversed, it can point to isolation that no longer feels nourishing.",
+    "love_meaning": "May suggest a need for space or reflection before moving forward together.",
+    "career_meaning": "Suggests a pause for reflection before the next career move.",
+    "money_meaning": "Favors caution and reflection before financial decisions.",
+    "general_meaning": "The Hermit invites a period of introspection \u2014 stepping back to seek your own answers before acting.",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/major/the-hermit.svg"
+  },
+  {
+    "id": 11,
+    "name": "Wheel of Fortune",
+    "slug": "wheel-of-fortune",
+    "arcana": "major",
+    "number": 10,
+    "suit": null,
+    "upright_keywords": [
+      "cycles",
+      "change",
+      "turning points",
+      "fate"
+    ],
+    "reversed_keywords": [
+      "resistance to change",
+      "bad timing",
+      "disruption"
+    ],
+    "upright_meaning": "The Wheel of Fortune points to cycles and turning points \u2014 change that is part of a larger, ongoing pattern.",
+    "reversed_meaning": "Reversed, it may suggest resisting an inevitable shift or feeling caught in an unlucky cycle.",
+    "love_meaning": "Suggests a shift or turning point in the relationship's trajectory.",
+    "career_meaning": "Points to a change in circumstances, possibly outside your direct control.",
+    "money_meaning": "Suggests fluctuation; timing may matter more than usual.",
+    "general_meaning": "The Wheel of Fortune points to cycles and turning points \u2014 change that is part of a larger, ongoing pattern.",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/major/wheel-of-fortune.svg"
+  },
+  {
+    "id": 12,
+    "name": "Justice",
+    "slug": "justice",
+    "arcana": "major",
+    "number": 11,
+    "suit": null,
+    "upright_keywords": [
+      "fairness",
+      "truth",
+      "accountability",
+      "balance"
+    ],
+    "reversed_keywords": [
+      "unfairness",
+      "avoidance of truth",
+      "imbalance"
+    ],
+    "upright_meaning": "Justice speaks to fairness, truth, and accountability \u2014 the natural consequences of choices already made.",
+    "reversed_meaning": "Reversed, it can point to an imbalance, an unresolved truth, or avoided accountability.",
+    "love_meaning": "Suggests honesty and fairness are central to this connection right now.",
+    "career_meaning": "Favors decisions grounded in fairness and clear agreements.",
+    "money_meaning": "Suggests careful accounting and fair dealings.",
+    "general_meaning": "Justice speaks to fairness, truth, and accountability \u2014 the natural consequences of choices already made.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/justice.svg"
+  },
+  {
+    "id": 13,
+    "name": "The Hanged Man",
+    "slug": "the-hanged-man",
+    "arcana": "major",
+    "number": 12,
+    "suit": null,
+    "upright_keywords": [
+      "pause",
+      "new perspective",
+      "surrender",
+      "letting go"
+    ],
+    "reversed_keywords": [
+      "stalling",
+      "resistance",
+      "needless sacrifice"
+    ],
+    "upright_meaning": "The Hanged Man suggests pausing to see a situation from a new angle rather than forcing movement.",
+    "reversed_meaning": "Reversed, it may reflect stalling or resisting a needed shift in perspective.",
+    "love_meaning": "Suggests a pause may reveal a perspective you hadn't considered.",
+    "career_meaning": "Favors patience; the current standstill may hold a hidden opportunity.",
+    "money_meaning": "Suggests holding off rather than acting hastily.",
+    "general_meaning": "The Hanged Man suggests pausing to see a situation from a new angle rather than forcing movement.",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/major/the-hanged-man.svg"
+  },
+  {
+    "id": 14,
+    "name": "Death",
+    "slug": "death",
+    "arcana": "major",
+    "number": 13,
+    "suit": null,
+    "upright_keywords": [
+      "transformation",
+      "endings",
+      "transition",
+      "release"
+    ],
+    "reversed_keywords": [
+      "resistance to change",
+      "stagnation",
+      "fear of endings"
+    ],
+    "upright_meaning": "Death symbolizes transformation \u2014 the natural close of one chapter that makes room for another.",
+    "reversed_meaning": "Reversed, it may point to resisting a necessary ending or feeling stuck.",
+    "love_meaning": "Suggests a significant transition, not necessarily negative, in this relationship's shape.",
+    "career_meaning": "Points to the end of one phase and the beginning of another professionally.",
+    "money_meaning": "Suggests a meaningful shift in financial circumstances or habits.",
+    "general_meaning": "Death symbolizes transformation \u2014 the natural close of one chapter that makes room for another.",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/major/death.svg"
+  },
+  {
+    "id": 15,
+    "name": "Temperance",
+    "slug": "temperance",
+    "arcana": "major",
+    "number": 14,
+    "suit": null,
+    "upright_keywords": [
+      "balance",
+      "moderation",
+      "patience",
+      "integration"
+    ],
+    "reversed_keywords": [
+      "imbalance",
+      "excess",
+      "impatience"
+    ],
+    "upright_meaning": "Temperance reflects balance and patient integration \u2014 blending different parts of life into something workable.",
+    "reversed_meaning": "Reversed, it can point to excess or a lack of balance.",
+    "love_meaning": "Suggests patience and compromise will serve this connection well.",
+    "career_meaning": "Favors a balanced, sustainable approach over extremes.",
+    "money_meaning": "Suggests moderation and careful blending of resources.",
+    "general_meaning": "Temperance reflects balance and patient integration \u2014 blending different parts of life into something workable.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/temperance.svg"
+  },
+  {
+    "id": 16,
+    "name": "The Devil",
+    "slug": "the-devil",
+    "arcana": "major",
+    "number": 15,
+    "suit": null,
+    "upright_keywords": [
+      "attachment",
+      "restriction",
+      "temptation",
+      "patterns"
+    ],
+    "reversed_keywords": [
+      "release from bondage",
+      "reclaiming power",
+      "breaking free"
+    ],
+    "upright_meaning": "The Devil highlights attachments or patterns that may feel restrictive, inviting an honest look at what's holding you.",
+    "reversed_meaning": "Reversed, it can reflect breaking free from a limiting pattern or reclaiming your power.",
+    "love_meaning": "May point to an intense attraction or a pattern worth examining honestly.",
+    "career_meaning": "Suggests examining whether a situation feels genuinely fulfilling or merely comfortable.",
+    "money_meaning": "Cautions against overspending or unhealthy financial patterns.",
+    "general_meaning": "The Devil highlights attachments or patterns that may feel restrictive, inviting an honest look at what's holding you.",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/major/the-devil.svg"
+  },
+  {
+    "id": 17,
+    "name": "The Tower",
+    "slug": "the-tower",
+    "arcana": "major",
+    "number": 16,
+    "suit": null,
+    "upright_keywords": [
+      "sudden change",
+      "upheaval",
+      "revelation",
+      "awakening"
+    ],
+    "reversed_keywords": [
+      "avoiding disaster",
+      "delayed change",
+      "fear of change"
+    ],
+    "upright_meaning": "The Tower represents sudden, revealing change \u2014 the collapse of something that was no longer stable.",
+    "reversed_meaning": "Reversed, it may suggest narrowly avoiding upheaval or delaying an overdue change.",
+    "love_meaning": "May point to a sudden realization or shake-up in the relationship's dynamic.",
+    "career_meaning": "Suggests an unexpected disruption that ultimately clears space for something new.",
+    "money_meaning": "Cautions that finances may be more unstable than they appear.",
+    "general_meaning": "The Tower represents sudden, revealing change \u2014 the collapse of something that was no longer stable.",
+    "yes_no_tendency": "no",
+    "image_url": "/tarot/major/the-tower.svg"
+  },
+  {
+    "id": 18,
+    "name": "The Star",
+    "slug": "the-star",
+    "arcana": "major",
+    "number": 17,
+    "suit": null,
+    "upright_keywords": [
+      "hope",
+      "renewal",
+      "inspiration",
+      "healing"
+    ],
+    "reversed_keywords": [
+      "despair",
+      "disconnection",
+      "lack of faith"
+    ],
+    "upright_meaning": "The Star offers hope and renewal after a difficult period \u2014 a quiet sense that things are healing.",
+    "reversed_meaning": "Reversed, it may point to feeling discouraged or disconnected from hope.",
+    "love_meaning": "Suggests healing and renewed optimism in matters of the heart.",
+    "career_meaning": "Favors a hopeful, inspired approach to long-term goals.",
+    "money_meaning": "Suggests gradual improvement and renewed confidence.",
+    "general_meaning": "The Star offers hope and renewal after a difficult period \u2014 a quiet sense that things are healing.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-star.svg"
+  },
+  {
+    "id": 19,
+    "name": "The Moon",
+    "slug": "the-moon",
+    "arcana": "major",
+    "number": 18,
+    "suit": null,
+    "upright_keywords": [
+      "uncertainty",
+      "intuition",
+      "the subconscious",
+      "illusion"
+    ],
+    "reversed_keywords": [
+      "clarity emerging",
+      "released fear",
+      "confusion fading"
+    ],
+    "upright_meaning": "The Moon points to uncertainty and the subconscious \u2014 some things may not yet be fully clear.",
+    "reversed_meaning": "Reversed, it can suggest confusion beginning to lift and clarity returning.",
+    "love_meaning": "Suggests mixed signals; more clarity may be needed before conclusions are drawn.",
+    "career_meaning": "Cautions against decisions made without full information.",
+    "money_meaning": "Suggests double-checking details before committing financially.",
+    "general_meaning": "The Moon points to uncertainty and the subconscious \u2014 some things may not yet be fully clear.",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/major/the-moon.svg"
+  },
+  {
+    "id": 20,
+    "name": "The Sun",
+    "slug": "the-sun",
+    "arcana": "major",
+    "number": 19,
+    "suit": null,
+    "upright_keywords": [
+      "joy",
+      "success",
+      "vitality",
+      "clarity"
+    ],
+    "reversed_keywords": [
+      "temporary setback",
+      "diminished joy",
+      "clouded optimism"
+    ],
+    "upright_meaning": "The Sun reflects joy, clarity, and success \u2014 a genuinely positive, warm energy around the situation.",
+    "reversed_meaning": "Reversed, it may point to a temporary dip in optimism rather than a lasting one.",
+    "love_meaning": "A generally favorable, warm sign for connection and happiness.",
+    "career_meaning": "Favors visibility, recognition, and positive momentum.",
+    "money_meaning": "Suggests a favorable, confident financial outlook.",
+    "general_meaning": "The Sun reflects joy, clarity, and success \u2014 a genuinely positive, warm energy around the situation.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-sun.svg"
+  },
+  {
+    "id": 21,
+    "name": "Judgement",
+    "slug": "judgement",
+    "arcana": "major",
+    "number": 20,
+    "suit": null,
+    "upright_keywords": [
+      "reflection",
+      "reckoning",
+      "renewal",
+      "calling"
+    ],
+    "reversed_keywords": [
+      "self-doubt",
+      "harsh self-judgment",
+      "avoiding a decision"
+    ],
+    "upright_meaning": "Judgement invites reflection on the past as a way of stepping into a renewed, more aligned chapter.",
+    "reversed_meaning": "Reversed, it may point to harsh self-criticism or avoiding an important decision.",
+    "love_meaning": "Suggests a moment of honest reflection about what this relationship truly offers.",
+    "career_meaning": "Suggests reassessing your path with fresh, honest perspective.",
+    "money_meaning": "Suggests reviewing past financial decisions before moving forward.",
+    "general_meaning": "Judgement invites reflection on the past as a way of stepping into a renewed, more aligned chapter.",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/major/judgement.svg"
+  },
+  {
+    "id": 22,
+    "name": "The World",
+    "slug": "the-world",
+    "arcana": "major",
+    "number": 21,
+    "suit": null,
+    "upright_keywords": [
+      "completion",
+      "fulfillment",
+      "wholeness",
+      "achievement"
+    ],
+    "reversed_keywords": [
+      "incomplete closure",
+      "delay",
+      "unfinished business"
+    ],
+    "upright_meaning": "The World signals completion and fulfillment \u2014 a cycle reaching a satisfying close.",
+    "reversed_meaning": "Reversed, it may point to something left unresolved or a delayed sense of closure.",
+    "love_meaning": "Suggests a sense of wholeness or a meaningful milestone in the relationship.",
+    "career_meaning": "Points to the successful completion of a significant goal or project.",
+    "money_meaning": "Suggests a favorable, complete outcome to a financial matter.",
+    "general_meaning": "The World signals completion and fulfillment \u2014 a cycle reaching a satisfying close.",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/major/the-world.svg"
+  },
+  {
+    "id": 23,
+    "name": "Ace of Wands",
+    "slug": "ace-of-wands",
+    "arcana": "minor",
+    "number": 1,
+    "suit": "Wands",
+    "upright_keywords": [
+      "new beginning",
+      "raw potential",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "a fresh opportunity worth noticing"
+    ],
+    "upright_meaning": "The Ace of Wands reflects new beginning and raw potential, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Ace of Wands can suggest the shadow side of new beginning and raw potential \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ace of Wands points to passion and momentum, colored by a fresh opportunity worth noticing.",
+    "career_meaning": "Professionally, the Ace of Wands suggests initiative and drive, shaped by new beginning and raw potential.",
+    "money_meaning": "Financially, the Ace of Wands suggests active pursuit of opportunity, tempered by new beginning and raw potential.",
+    "general_meaning": "The Ace of Wands reflects new beginning and raw potential, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ace-of-wands.svg"
+  },
+  {
+    "id": 24,
+    "name": "Two of Wands",
+    "slug": "two-of-wands",
+    "arcana": "minor",
+    "number": 2,
+    "suit": "Wands",
+    "upright_keywords": [
+      "balance, choice, or partnership",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "weighing two paths",
+      "people"
+    ],
+    "upright_meaning": "The Two of Wands reflects balance, choice, or partnership, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Two of Wands can suggest the shadow side of balance, choice, or partnership \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Two of Wands points to passion and momentum, colored by weighing two paths or people.",
+    "career_meaning": "Professionally, the Two of Wands suggests initiative and drive, shaped by balance, choice, or partnership.",
+    "money_meaning": "Financially, the Two of Wands suggests active pursuit of opportunity, tempered by balance, choice, or partnership.",
+    "general_meaning": "The Two of Wands reflects balance, choice, or partnership, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/two-of-wands.svg"
+  },
+  {
+    "id": 25,
+    "name": "Three of Wands",
+    "slug": "three-of-wands",
+    "arcana": "minor",
+    "number": 3,
+    "suit": "Wands",
+    "upright_keywords": [
+      "early growth",
+      "collaboration",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "the first visible results of effort"
+    ],
+    "upright_meaning": "The Three of Wands reflects early growth and collaboration, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Three of Wands can suggest the shadow side of early growth and collaboration \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Three of Wands points to passion and momentum, colored by the first visible results of effort.",
+    "career_meaning": "Professionally, the Three of Wands suggests initiative and drive, shaped by early growth and collaboration.",
+    "money_meaning": "Financially, the Three of Wands suggests active pursuit of opportunity, tempered by early growth and collaboration.",
+    "general_meaning": "The Three of Wands reflects early growth and collaboration, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/three-of-wands.svg"
+  },
+  {
+    "id": 26,
+    "name": "Four of Wands",
+    "slug": "four-of-wands",
+    "arcana": "minor",
+    "number": 4,
+    "suit": "Wands",
+    "upright_keywords": [
+      "stability",
+      "a pause to consolidate",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "a foundation worth protecting"
+    ],
+    "upright_meaning": "The Four of Wands reflects stability and a pause to consolidate, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Four of Wands can suggest the shadow side of stability and a pause to consolidate \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Four of Wands points to passion and momentum, colored by a foundation worth protecting.",
+    "career_meaning": "Professionally, the Four of Wands suggests initiative and drive, shaped by stability and a pause to consolidate.",
+    "money_meaning": "Financially, the Four of Wands suggests active pursuit of opportunity, tempered by stability and a pause to consolidate.",
+    "general_meaning": "The Four of Wands reflects stability and a pause to consolidate, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/four-of-wands.svg"
+  },
+  {
+    "id": 27,
+    "name": "Five of Wands",
+    "slug": "five-of-wands",
+    "arcana": "minor",
+    "number": 5,
+    "suit": "Wands",
+    "upright_keywords": [
+      "tension, conflict, or challenge",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "friction that asks for a response"
+    ],
+    "upright_meaning": "The Five of Wands reflects tension, conflict, or challenge, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Five of Wands can suggest the shadow side of tension, conflict, or challenge \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Five of Wands points to passion and momentum, colored by friction that asks for a response.",
+    "career_meaning": "Professionally, the Five of Wands suggests initiative and drive, shaped by tension, conflict, or challenge.",
+    "money_meaning": "Financially, the Five of Wands suggests active pursuit of opportunity, tempered by tension, conflict, or challenge.",
+    "general_meaning": "The Five of Wands reflects tension, conflict, or challenge, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/five-of-wands.svg"
+  },
+  {
+    "id": 28,
+    "name": "Six of Wands",
+    "slug": "six-of-wands",
+    "arcana": "minor",
+    "number": 6,
+    "suit": "Wands",
+    "upright_keywords": [
+      "cooperation",
+      "moving past difficulty",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "support, generosity,",
+      "progress"
+    ],
+    "upright_meaning": "The Six of Wands reflects cooperation and moving past difficulty, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Six of Wands can suggest the shadow side of cooperation and moving past difficulty \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Six of Wands points to passion and momentum, colored by support, generosity, or progress.",
+    "career_meaning": "Professionally, the Six of Wands suggests initiative and drive, shaped by cooperation and moving past difficulty.",
+    "money_meaning": "Financially, the Six of Wands suggests active pursuit of opportunity, tempered by cooperation and moving past difficulty.",
+    "general_meaning": "The Six of Wands reflects cooperation and moving past difficulty, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/six-of-wands.svg"
+  },
+  {
+    "id": 29,
+    "name": "Seven of Wands",
+    "slug": "seven-of-wands",
+    "arcana": "minor",
+    "number": 7,
+    "suit": "Wands",
+    "upright_keywords": [
+      "assessment",
+      "perseverance",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "a moment to evaluate your approach"
+    ],
+    "upright_meaning": "The Seven of Wands reflects assessment and perseverance, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Seven of Wands can suggest the shadow side of assessment and perseverance \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Seven of Wands points to passion and momentum, colored by a moment to evaluate your approach.",
+    "career_meaning": "Professionally, the Seven of Wands suggests initiative and drive, shaped by assessment and perseverance.",
+    "money_meaning": "Financially, the Seven of Wands suggests active pursuit of opportunity, tempered by assessment and perseverance.",
+    "general_meaning": "The Seven of Wands reflects assessment and perseverance, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/seven-of-wands.svg"
+  },
+  {
+    "id": 30,
+    "name": "Eight of Wands",
+    "slug": "eight-of-wands",
+    "arcana": "minor",
+    "number": 8,
+    "suit": "Wands",
+    "upright_keywords": [
+      "movement, focus, or restriction",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "swift change",
+      "a narrowing of options"
+    ],
+    "upright_meaning": "The Eight of Wands reflects movement, focus, or restriction, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Eight of Wands can suggest the shadow side of movement, focus, or restriction \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Eight of Wands points to passion and momentum, colored by swift change or a narrowing of options.",
+    "career_meaning": "Professionally, the Eight of Wands suggests initiative and drive, shaped by movement, focus, or restriction.",
+    "money_meaning": "Financially, the Eight of Wands suggests active pursuit of opportunity, tempered by movement, focus, or restriction.",
+    "general_meaning": "The Eight of Wands reflects movement, focus, or restriction, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/eight-of-wands.svg"
+  },
+  {
+    "id": 31,
+    "name": "Nine of Wands",
+    "slug": "nine-of-wands",
+    "arcana": "minor",
+    "number": 9,
+    "suit": "Wands",
+    "upright_keywords": [
+      "resilience near the end of a cycle",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "strength gathered from experience"
+    ],
+    "upright_meaning": "The Nine of Wands reflects resilience near the end of a cycle, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Nine of Wands can suggest the shadow side of resilience near the end of a cycle \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Nine of Wands points to passion and momentum, colored by strength gathered from experience.",
+    "career_meaning": "Professionally, the Nine of Wands suggests initiative and drive, shaped by resilience near the end of a cycle.",
+    "money_meaning": "Financially, the Nine of Wands suggests active pursuit of opportunity, tempered by resilience near the end of a cycle.",
+    "general_meaning": "The Nine of Wands reflects resilience near the end of a cycle, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/nine-of-wands.svg"
+  },
+  {
+    "id": 32,
+    "name": "Ten of Wands",
+    "slug": "ten-of-wands",
+    "arcana": "minor",
+    "number": 10,
+    "suit": "Wands",
+    "upright_keywords": [
+      "culmination, for better or worse",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "the full weight of where this cycle has led"
+    ],
+    "upright_meaning": "The Ten of Wands reflects culmination, for better or worse, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Ten of Wands can suggest the shadow side of culmination, for better or worse \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ten of Wands points to passion and momentum, colored by the full weight of where this cycle has led.",
+    "career_meaning": "Professionally, the Ten of Wands suggests initiative and drive, shaped by culmination, for better or worse.",
+    "money_meaning": "Financially, the Ten of Wands suggests active pursuit of opportunity, tempered by culmination, for better or worse.",
+    "general_meaning": "The Ten of Wands reflects culmination, for better or worse, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ten-of-wands.svg"
+  },
+  {
+    "id": 33,
+    "name": "Page of Wands",
+    "slug": "page-of-wands",
+    "arcana": "minor",
+    "number": 11,
+    "suit": "Wands",
+    "upright_keywords": [
+      "a curious, early-stage message or energy",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "a student's openness to learning"
+    ],
+    "upright_meaning": "The Page of Wands reflects a curious, early-stage message or energy, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Page of Wands can suggest the shadow side of a curious, early-stage message or energy \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Page of Wands points to passion and momentum, colored by a student's openness to learning.",
+    "career_meaning": "Professionally, the Page of Wands suggests initiative and drive, shaped by a curious, early-stage message or energy.",
+    "money_meaning": "Financially, the Page of Wands suggests active pursuit of opportunity, tempered by a curious, early-stage message or energy.",
+    "general_meaning": "The Page of Wands reflects a curious, early-stage message or energy, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/page-of-wands.svg"
+  },
+  {
+    "id": 34,
+    "name": "Knight of Wands",
+    "slug": "knight-of-wands",
+    "arcana": "minor",
+    "number": 12,
+    "suit": "Wands",
+    "upright_keywords": [
+      "active pursuit of a goal",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "energy in motion, for good",
+      "ill"
+    ],
+    "upright_meaning": "The Knight of Wands reflects active pursuit of a goal, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Knight of Wands can suggest the shadow side of active pursuit of a goal \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Knight of Wands points to passion and momentum, colored by energy in motion, for good or ill.",
+    "career_meaning": "Professionally, the Knight of Wands suggests initiative and drive, shaped by active pursuit of a goal.",
+    "money_meaning": "Financially, the Knight of Wands suggests active pursuit of opportunity, tempered by active pursuit of a goal.",
+    "general_meaning": "The Knight of Wands reflects active pursuit of a goal, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/knight-of-wands.svg"
+  },
+  {
+    "id": 35,
+    "name": "Queen of Wands",
+    "slug": "queen-of-wands",
+    "arcana": "minor",
+    "number": 13,
+    "suit": "Wands",
+    "upright_keywords": [
+      "mature, inward mastery",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "nurturing command of this suit's domain"
+    ],
+    "upright_meaning": "The Queen of Wands reflects mature, inward mastery, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the Queen of Wands can suggest the shadow side of mature, inward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Queen of Wands points to passion and momentum, colored by nurturing command of this suit's domain.",
+    "career_meaning": "Professionally, the Queen of Wands suggests initiative and drive, shaped by mature, inward mastery.",
+    "money_meaning": "Financially, the Queen of Wands suggests active pursuit of opportunity, tempered by mature, inward mastery.",
+    "general_meaning": "The Queen of Wands reflects mature, inward mastery, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/queen-of-wands.svg"
+  },
+  {
+    "id": 36,
+    "name": "King of Wands",
+    "slug": "king-of-wands",
+    "arcana": "minor",
+    "number": 14,
+    "suit": "Wands",
+    "upright_keywords": [
+      "mature, outward mastery",
+      "fire"
+    ],
+    "reversed_keywords": [
+      "confident authority in this suit's domain"
+    ],
+    "upright_meaning": "The King of Wands reflects mature, outward mastery, connected to creativity, ambition, and action (fire energy).",
+    "reversed_meaning": "Reversed, the King of Wands can suggest the shadow side of mature, outward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the King of Wands points to passion and momentum, colored by confident authority in this suit's domain.",
+    "career_meaning": "Professionally, the King of Wands suggests initiative and drive, shaped by mature, outward mastery.",
+    "money_meaning": "Financially, the King of Wands suggests active pursuit of opportunity, tempered by mature, outward mastery.",
+    "general_meaning": "The King of Wands reflects mature, outward mastery, connected to creativity, ambition, and action (fire energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/king-of-wands.svg"
+  },
+  {
+    "id": 37,
+    "name": "Ace of Cups",
+    "slug": "ace-of-cups",
+    "arcana": "minor",
+    "number": 1,
+    "suit": "Cups",
+    "upright_keywords": [
+      "new beginning",
+      "raw potential",
+      "water"
+    ],
+    "reversed_keywords": [
+      "a fresh opportunity worth noticing"
+    ],
+    "upright_meaning": "The Ace of Cups reflects new beginning and raw potential, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Ace of Cups can suggest the shadow side of new beginning and raw potential \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ace of Cups points to emotional depth and connection, colored by a fresh opportunity worth noticing.",
+    "career_meaning": "Professionally, the Ace of Cups suggests fulfillment and meaningful work, shaped by new beginning and raw potential.",
+    "money_meaning": "Financially, the Ace of Cups suggests value beyond the purely material, tempered by new beginning and raw potential.",
+    "general_meaning": "The Ace of Cups reflects new beginning and raw potential, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ace-of-cups.svg"
+  },
+  {
+    "id": 38,
+    "name": "Two of Cups",
+    "slug": "two-of-cups",
+    "arcana": "minor",
+    "number": 2,
+    "suit": "Cups",
+    "upright_keywords": [
+      "balance, choice, or partnership",
+      "water"
+    ],
+    "reversed_keywords": [
+      "weighing two paths",
+      "people"
+    ],
+    "upright_meaning": "The Two of Cups reflects balance, choice, or partnership, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Two of Cups can suggest the shadow side of balance, choice, or partnership \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Two of Cups points to emotional depth and connection, colored by weighing two paths or people.",
+    "career_meaning": "Professionally, the Two of Cups suggests fulfillment and meaningful work, shaped by balance, choice, or partnership.",
+    "money_meaning": "Financially, the Two of Cups suggests value beyond the purely material, tempered by balance, choice, or partnership.",
+    "general_meaning": "The Two of Cups reflects balance, choice, or partnership, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/two-of-cups.svg"
+  },
+  {
+    "id": 39,
+    "name": "Three of Cups",
+    "slug": "three-of-cups",
+    "arcana": "minor",
+    "number": 3,
+    "suit": "Cups",
+    "upright_keywords": [
+      "early growth",
+      "collaboration",
+      "water"
+    ],
+    "reversed_keywords": [
+      "the first visible results of effort"
+    ],
+    "upright_meaning": "The Three of Cups reflects early growth and collaboration, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Three of Cups can suggest the shadow side of early growth and collaboration \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Three of Cups points to emotional depth and connection, colored by the first visible results of effort.",
+    "career_meaning": "Professionally, the Three of Cups suggests fulfillment and meaningful work, shaped by early growth and collaboration.",
+    "money_meaning": "Financially, the Three of Cups suggests value beyond the purely material, tempered by early growth and collaboration.",
+    "general_meaning": "The Three of Cups reflects early growth and collaboration, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/three-of-cups.svg"
+  },
+  {
+    "id": 40,
+    "name": "Four of Cups",
+    "slug": "four-of-cups",
+    "arcana": "minor",
+    "number": 4,
+    "suit": "Cups",
+    "upright_keywords": [
+      "stability",
+      "a pause to consolidate",
+      "water"
+    ],
+    "reversed_keywords": [
+      "a foundation worth protecting"
+    ],
+    "upright_meaning": "The Four of Cups reflects stability and a pause to consolidate, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Four of Cups can suggest the shadow side of stability and a pause to consolidate \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Four of Cups points to emotional depth and connection, colored by a foundation worth protecting.",
+    "career_meaning": "Professionally, the Four of Cups suggests fulfillment and meaningful work, shaped by stability and a pause to consolidate.",
+    "money_meaning": "Financially, the Four of Cups suggests value beyond the purely material, tempered by stability and a pause to consolidate.",
+    "general_meaning": "The Four of Cups reflects stability and a pause to consolidate, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/four-of-cups.svg"
+  },
+  {
+    "id": 41,
+    "name": "Five of Cups",
+    "slug": "five-of-cups",
+    "arcana": "minor",
+    "number": 5,
+    "suit": "Cups",
+    "upright_keywords": [
+      "tension, conflict, or challenge",
+      "water"
+    ],
+    "reversed_keywords": [
+      "friction that asks for a response"
+    ],
+    "upright_meaning": "The Five of Cups reflects tension, conflict, or challenge, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Five of Cups can suggest the shadow side of tension, conflict, or challenge \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Five of Cups points to emotional depth and connection, colored by friction that asks for a response.",
+    "career_meaning": "Professionally, the Five of Cups suggests fulfillment and meaningful work, shaped by tension, conflict, or challenge.",
+    "money_meaning": "Financially, the Five of Cups suggests value beyond the purely material, tempered by tension, conflict, or challenge.",
+    "general_meaning": "The Five of Cups reflects tension, conflict, or challenge, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/five-of-cups.svg"
+  },
+  {
+    "id": 42,
+    "name": "Six of Cups",
+    "slug": "six-of-cups",
+    "arcana": "minor",
+    "number": 6,
+    "suit": "Cups",
+    "upright_keywords": [
+      "cooperation",
+      "moving past difficulty",
+      "water"
+    ],
+    "reversed_keywords": [
+      "support, generosity,",
+      "progress"
+    ],
+    "upright_meaning": "The Six of Cups reflects cooperation and moving past difficulty, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Six of Cups can suggest the shadow side of cooperation and moving past difficulty \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Six of Cups points to emotional depth and connection, colored by support, generosity, or progress.",
+    "career_meaning": "Professionally, the Six of Cups suggests fulfillment and meaningful work, shaped by cooperation and moving past difficulty.",
+    "money_meaning": "Financially, the Six of Cups suggests value beyond the purely material, tempered by cooperation and moving past difficulty.",
+    "general_meaning": "The Six of Cups reflects cooperation and moving past difficulty, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/six-of-cups.svg"
+  },
+  {
+    "id": 43,
+    "name": "Seven of Cups",
+    "slug": "seven-of-cups",
+    "arcana": "minor",
+    "number": 7,
+    "suit": "Cups",
+    "upright_keywords": [
+      "assessment",
+      "perseverance",
+      "water"
+    ],
+    "reversed_keywords": [
+      "a moment to evaluate your approach"
+    ],
+    "upright_meaning": "The Seven of Cups reflects assessment and perseverance, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Seven of Cups can suggest the shadow side of assessment and perseverance \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Seven of Cups points to emotional depth and connection, colored by a moment to evaluate your approach.",
+    "career_meaning": "Professionally, the Seven of Cups suggests fulfillment and meaningful work, shaped by assessment and perseverance.",
+    "money_meaning": "Financially, the Seven of Cups suggests value beyond the purely material, tempered by assessment and perseverance.",
+    "general_meaning": "The Seven of Cups reflects assessment and perseverance, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/seven-of-cups.svg"
+  },
+  {
+    "id": 44,
+    "name": "Eight of Cups",
+    "slug": "eight-of-cups",
+    "arcana": "minor",
+    "number": 8,
+    "suit": "Cups",
+    "upright_keywords": [
+      "movement, focus, or restriction",
+      "water"
+    ],
+    "reversed_keywords": [
+      "swift change",
+      "a narrowing of options"
+    ],
+    "upright_meaning": "The Eight of Cups reflects movement, focus, or restriction, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Eight of Cups can suggest the shadow side of movement, focus, or restriction \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Eight of Cups points to emotional depth and connection, colored by swift change or a narrowing of options.",
+    "career_meaning": "Professionally, the Eight of Cups suggests fulfillment and meaningful work, shaped by movement, focus, or restriction.",
+    "money_meaning": "Financially, the Eight of Cups suggests value beyond the purely material, tempered by movement, focus, or restriction.",
+    "general_meaning": "The Eight of Cups reflects movement, focus, or restriction, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/eight-of-cups.svg"
+  },
+  {
+    "id": 45,
+    "name": "Nine of Cups",
+    "slug": "nine-of-cups",
+    "arcana": "minor",
+    "number": 9,
+    "suit": "Cups",
+    "upright_keywords": [
+      "resilience near the end of a cycle",
+      "water"
+    ],
+    "reversed_keywords": [
+      "strength gathered from experience"
+    ],
+    "upright_meaning": "The Nine of Cups reflects resilience near the end of a cycle, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Nine of Cups can suggest the shadow side of resilience near the end of a cycle \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Nine of Cups points to emotional depth and connection, colored by strength gathered from experience.",
+    "career_meaning": "Professionally, the Nine of Cups suggests fulfillment and meaningful work, shaped by resilience near the end of a cycle.",
+    "money_meaning": "Financially, the Nine of Cups suggests value beyond the purely material, tempered by resilience near the end of a cycle.",
+    "general_meaning": "The Nine of Cups reflects resilience near the end of a cycle, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/nine-of-cups.svg"
+  },
+  {
+    "id": 46,
+    "name": "Ten of Cups",
+    "slug": "ten-of-cups",
+    "arcana": "minor",
+    "number": 10,
+    "suit": "Cups",
+    "upright_keywords": [
+      "culmination, for better or worse",
+      "water"
+    ],
+    "reversed_keywords": [
+      "the full weight of where this cycle has led"
+    ],
+    "upright_meaning": "The Ten of Cups reflects culmination, for better or worse, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Ten of Cups can suggest the shadow side of culmination, for better or worse \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ten of Cups points to emotional depth and connection, colored by the full weight of where this cycle has led.",
+    "career_meaning": "Professionally, the Ten of Cups suggests fulfillment and meaningful work, shaped by culmination, for better or worse.",
+    "money_meaning": "Financially, the Ten of Cups suggests value beyond the purely material, tempered by culmination, for better or worse.",
+    "general_meaning": "The Ten of Cups reflects culmination, for better or worse, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ten-of-cups.svg"
+  },
+  {
+    "id": 47,
+    "name": "Page of Cups",
+    "slug": "page-of-cups",
+    "arcana": "minor",
+    "number": 11,
+    "suit": "Cups",
+    "upright_keywords": [
+      "a curious, early-stage message or energy",
+      "water"
+    ],
+    "reversed_keywords": [
+      "a student's openness to learning"
+    ],
+    "upright_meaning": "The Page of Cups reflects a curious, early-stage message or energy, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Page of Cups can suggest the shadow side of a curious, early-stage message or energy \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Page of Cups points to emotional depth and connection, colored by a student's openness to learning.",
+    "career_meaning": "Professionally, the Page of Cups suggests fulfillment and meaningful work, shaped by a curious, early-stage message or energy.",
+    "money_meaning": "Financially, the Page of Cups suggests value beyond the purely material, tempered by a curious, early-stage message or energy.",
+    "general_meaning": "The Page of Cups reflects a curious, early-stage message or energy, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/page-of-cups.svg"
+  },
+  {
+    "id": 48,
+    "name": "Knight of Cups",
+    "slug": "knight-of-cups",
+    "arcana": "minor",
+    "number": 12,
+    "suit": "Cups",
+    "upright_keywords": [
+      "active pursuit of a goal",
+      "water"
+    ],
+    "reversed_keywords": [
+      "energy in motion, for good",
+      "ill"
+    ],
+    "upright_meaning": "The Knight of Cups reflects active pursuit of a goal, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Knight of Cups can suggest the shadow side of active pursuit of a goal \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Knight of Cups points to emotional depth and connection, colored by energy in motion, for good or ill.",
+    "career_meaning": "Professionally, the Knight of Cups suggests fulfillment and meaningful work, shaped by active pursuit of a goal.",
+    "money_meaning": "Financially, the Knight of Cups suggests value beyond the purely material, tempered by active pursuit of a goal.",
+    "general_meaning": "The Knight of Cups reflects active pursuit of a goal, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/knight-of-cups.svg"
+  },
+  {
+    "id": 49,
+    "name": "Queen of Cups",
+    "slug": "queen-of-cups",
+    "arcana": "minor",
+    "number": 13,
+    "suit": "Cups",
+    "upright_keywords": [
+      "mature, inward mastery",
+      "water"
+    ],
+    "reversed_keywords": [
+      "nurturing command of this suit's domain"
+    ],
+    "upright_meaning": "The Queen of Cups reflects mature, inward mastery, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the Queen of Cups can suggest the shadow side of mature, inward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Queen of Cups points to emotional depth and connection, colored by nurturing command of this suit's domain.",
+    "career_meaning": "Professionally, the Queen of Cups suggests fulfillment and meaningful work, shaped by mature, inward mastery.",
+    "money_meaning": "Financially, the Queen of Cups suggests value beyond the purely material, tempered by mature, inward mastery.",
+    "general_meaning": "The Queen of Cups reflects mature, inward mastery, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/queen-of-cups.svg"
+  },
+  {
+    "id": 50,
+    "name": "King of Cups",
+    "slug": "king-of-cups",
+    "arcana": "minor",
+    "number": 14,
+    "suit": "Cups",
+    "upright_keywords": [
+      "mature, outward mastery",
+      "water"
+    ],
+    "reversed_keywords": [
+      "confident authority in this suit's domain"
+    ],
+    "upright_meaning": "The King of Cups reflects mature, outward mastery, connected to emotion, relationships, and intuition (water energy).",
+    "reversed_meaning": "Reversed, the King of Cups can suggest the shadow side of mature, outward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the King of Cups points to emotional depth and connection, colored by confident authority in this suit's domain.",
+    "career_meaning": "Professionally, the King of Cups suggests fulfillment and meaningful work, shaped by mature, outward mastery.",
+    "money_meaning": "Financially, the King of Cups suggests value beyond the purely material, tempered by mature, outward mastery.",
+    "general_meaning": "The King of Cups reflects mature, outward mastery, connected to emotion, relationships, and intuition (water energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/king-of-cups.svg"
+  },
+  {
+    "id": 51,
+    "name": "Ace of Swords",
+    "slug": "ace-of-swords",
+    "arcana": "minor",
+    "number": 1,
+    "suit": "Swords",
+    "upright_keywords": [
+      "new beginning",
+      "raw potential",
+      "air"
+    ],
+    "reversed_keywords": [
+      "a fresh opportunity worth noticing"
+    ],
+    "upright_meaning": "The Ace of Swords reflects new beginning and raw potential, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Ace of Swords can suggest the shadow side of new beginning and raw potential \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ace of Swords points to honest communication, colored by a fresh opportunity worth noticing.",
+    "career_meaning": "Professionally, the Ace of Swords suggests clarity of thinking and decisions, shaped by new beginning and raw potential.",
+    "money_meaning": "Financially, the Ace of Swords suggests careful, rational planning, tempered by new beginning and raw potential.",
+    "general_meaning": "The Ace of Swords reflects new beginning and raw potential, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ace-of-swords.svg"
+  },
+  {
+    "id": 52,
+    "name": "Two of Swords",
+    "slug": "two-of-swords",
+    "arcana": "minor",
+    "number": 2,
+    "suit": "Swords",
+    "upright_keywords": [
+      "balance, choice, or partnership",
+      "air"
+    ],
+    "reversed_keywords": [
+      "weighing two paths",
+      "people"
+    ],
+    "upright_meaning": "The Two of Swords reflects balance, choice, or partnership, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Two of Swords can suggest the shadow side of balance, choice, or partnership \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Two of Swords points to honest communication, colored by weighing two paths or people.",
+    "career_meaning": "Professionally, the Two of Swords suggests clarity of thinking and decisions, shaped by balance, choice, or partnership.",
+    "money_meaning": "Financially, the Two of Swords suggests careful, rational planning, tempered by balance, choice, or partnership.",
+    "general_meaning": "The Two of Swords reflects balance, choice, or partnership, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/two-of-swords.svg"
+  },
+  {
+    "id": 53,
+    "name": "Three of Swords",
+    "slug": "three-of-swords",
+    "arcana": "minor",
+    "number": 3,
+    "suit": "Swords",
+    "upright_keywords": [
+      "early growth",
+      "collaboration",
+      "air"
+    ],
+    "reversed_keywords": [
+      "the first visible results of effort"
+    ],
+    "upright_meaning": "The Three of Swords reflects early growth and collaboration, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Three of Swords can suggest the shadow side of early growth and collaboration \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Three of Swords points to honest communication, colored by the first visible results of effort.",
+    "career_meaning": "Professionally, the Three of Swords suggests clarity of thinking and decisions, shaped by early growth and collaboration.",
+    "money_meaning": "Financially, the Three of Swords suggests careful, rational planning, tempered by early growth and collaboration.",
+    "general_meaning": "The Three of Swords reflects early growth and collaboration, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/three-of-swords.svg"
+  },
+  {
+    "id": 54,
+    "name": "Four of Swords",
+    "slug": "four-of-swords",
+    "arcana": "minor",
+    "number": 4,
+    "suit": "Swords",
+    "upright_keywords": [
+      "stability",
+      "a pause to consolidate",
+      "air"
+    ],
+    "reversed_keywords": [
+      "a foundation worth protecting"
+    ],
+    "upright_meaning": "The Four of Swords reflects stability and a pause to consolidate, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Four of Swords can suggest the shadow side of stability and a pause to consolidate \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Four of Swords points to honest communication, colored by a foundation worth protecting.",
+    "career_meaning": "Professionally, the Four of Swords suggests clarity of thinking and decisions, shaped by stability and a pause to consolidate.",
+    "money_meaning": "Financially, the Four of Swords suggests careful, rational planning, tempered by stability and a pause to consolidate.",
+    "general_meaning": "The Four of Swords reflects stability and a pause to consolidate, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/four-of-swords.svg"
+  },
+  {
+    "id": 55,
+    "name": "Five of Swords",
+    "slug": "five-of-swords",
+    "arcana": "minor",
+    "number": 5,
+    "suit": "Swords",
+    "upright_keywords": [
+      "tension, conflict, or challenge",
+      "air"
+    ],
+    "reversed_keywords": [
+      "friction that asks for a response"
+    ],
+    "upright_meaning": "The Five of Swords reflects tension, conflict, or challenge, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Five of Swords can suggest the shadow side of tension, conflict, or challenge \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Five of Swords points to honest communication, colored by friction that asks for a response.",
+    "career_meaning": "Professionally, the Five of Swords suggests clarity of thinking and decisions, shaped by tension, conflict, or challenge.",
+    "money_meaning": "Financially, the Five of Swords suggests careful, rational planning, tempered by tension, conflict, or challenge.",
+    "general_meaning": "The Five of Swords reflects tension, conflict, or challenge, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/five-of-swords.svg"
+  },
+  {
+    "id": 56,
+    "name": "Six of Swords",
+    "slug": "six-of-swords",
+    "arcana": "minor",
+    "number": 6,
+    "suit": "Swords",
+    "upright_keywords": [
+      "cooperation",
+      "moving past difficulty",
+      "air"
+    ],
+    "reversed_keywords": [
+      "support, generosity,",
+      "progress"
+    ],
+    "upright_meaning": "The Six of Swords reflects cooperation and moving past difficulty, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Six of Swords can suggest the shadow side of cooperation and moving past difficulty \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Six of Swords points to honest communication, colored by support, generosity, or progress.",
+    "career_meaning": "Professionally, the Six of Swords suggests clarity of thinking and decisions, shaped by cooperation and moving past difficulty.",
+    "money_meaning": "Financially, the Six of Swords suggests careful, rational planning, tempered by cooperation and moving past difficulty.",
+    "general_meaning": "The Six of Swords reflects cooperation and moving past difficulty, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/six-of-swords.svg"
+  },
+  {
+    "id": 57,
+    "name": "Seven of Swords",
+    "slug": "seven-of-swords",
+    "arcana": "minor",
+    "number": 7,
+    "suit": "Swords",
+    "upright_keywords": [
+      "assessment",
+      "perseverance",
+      "air"
+    ],
+    "reversed_keywords": [
+      "a moment to evaluate your approach"
+    ],
+    "upright_meaning": "The Seven of Swords reflects assessment and perseverance, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Seven of Swords can suggest the shadow side of assessment and perseverance \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Seven of Swords points to honest communication, colored by a moment to evaluate your approach.",
+    "career_meaning": "Professionally, the Seven of Swords suggests clarity of thinking and decisions, shaped by assessment and perseverance.",
+    "money_meaning": "Financially, the Seven of Swords suggests careful, rational planning, tempered by assessment and perseverance.",
+    "general_meaning": "The Seven of Swords reflects assessment and perseverance, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/seven-of-swords.svg"
+  },
+  {
+    "id": 58,
+    "name": "Eight of Swords",
+    "slug": "eight-of-swords",
+    "arcana": "minor",
+    "number": 8,
+    "suit": "Swords",
+    "upright_keywords": [
+      "movement, focus, or restriction",
+      "air"
+    ],
+    "reversed_keywords": [
+      "swift change",
+      "a narrowing of options"
+    ],
+    "upright_meaning": "The Eight of Swords reflects movement, focus, or restriction, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Eight of Swords can suggest the shadow side of movement, focus, or restriction \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Eight of Swords points to honest communication, colored by swift change or a narrowing of options.",
+    "career_meaning": "Professionally, the Eight of Swords suggests clarity of thinking and decisions, shaped by movement, focus, or restriction.",
+    "money_meaning": "Financially, the Eight of Swords suggests careful, rational planning, tempered by movement, focus, or restriction.",
+    "general_meaning": "The Eight of Swords reflects movement, focus, or restriction, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/eight-of-swords.svg"
+  },
+  {
+    "id": 59,
+    "name": "Nine of Swords",
+    "slug": "nine-of-swords",
+    "arcana": "minor",
+    "number": 9,
+    "suit": "Swords",
+    "upright_keywords": [
+      "resilience near the end of a cycle",
+      "air"
+    ],
+    "reversed_keywords": [
+      "strength gathered from experience"
+    ],
+    "upright_meaning": "The Nine of Swords reflects resilience near the end of a cycle, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Nine of Swords can suggest the shadow side of resilience near the end of a cycle \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Nine of Swords points to honest communication, colored by strength gathered from experience.",
+    "career_meaning": "Professionally, the Nine of Swords suggests clarity of thinking and decisions, shaped by resilience near the end of a cycle.",
+    "money_meaning": "Financially, the Nine of Swords suggests careful, rational planning, tempered by resilience near the end of a cycle.",
+    "general_meaning": "The Nine of Swords reflects resilience near the end of a cycle, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/nine-of-swords.svg"
+  },
+  {
+    "id": 60,
+    "name": "Ten of Swords",
+    "slug": "ten-of-swords",
+    "arcana": "minor",
+    "number": 10,
+    "suit": "Swords",
+    "upright_keywords": [
+      "culmination, for better or worse",
+      "air"
+    ],
+    "reversed_keywords": [
+      "the full weight of where this cycle has led"
+    ],
+    "upright_meaning": "The Ten of Swords reflects culmination, for better or worse, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Ten of Swords can suggest the shadow side of culmination, for better or worse \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ten of Swords points to honest communication, colored by the full weight of where this cycle has led.",
+    "career_meaning": "Professionally, the Ten of Swords suggests clarity of thinking and decisions, shaped by culmination, for better or worse.",
+    "money_meaning": "Financially, the Ten of Swords suggests careful, rational planning, tempered by culmination, for better or worse.",
+    "general_meaning": "The Ten of Swords reflects culmination, for better or worse, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ten-of-swords.svg"
+  },
+  {
+    "id": 61,
+    "name": "Page of Swords",
+    "slug": "page-of-swords",
+    "arcana": "minor",
+    "number": 11,
+    "suit": "Swords",
+    "upright_keywords": [
+      "a curious, early-stage message or energy",
+      "air"
+    ],
+    "reversed_keywords": [
+      "a student's openness to learning"
+    ],
+    "upright_meaning": "The Page of Swords reflects a curious, early-stage message or energy, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Page of Swords can suggest the shadow side of a curious, early-stage message or energy \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Page of Swords points to honest communication, colored by a student's openness to learning.",
+    "career_meaning": "Professionally, the Page of Swords suggests clarity of thinking and decisions, shaped by a curious, early-stage message or energy.",
+    "money_meaning": "Financially, the Page of Swords suggests careful, rational planning, tempered by a curious, early-stage message or energy.",
+    "general_meaning": "The Page of Swords reflects a curious, early-stage message or energy, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/page-of-swords.svg"
+  },
+  {
+    "id": 62,
+    "name": "Knight of Swords",
+    "slug": "knight-of-swords",
+    "arcana": "minor",
+    "number": 12,
+    "suit": "Swords",
+    "upright_keywords": [
+      "active pursuit of a goal",
+      "air"
+    ],
+    "reversed_keywords": [
+      "energy in motion, for good",
+      "ill"
+    ],
+    "upright_meaning": "The Knight of Swords reflects active pursuit of a goal, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Knight of Swords can suggest the shadow side of active pursuit of a goal \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Knight of Swords points to honest communication, colored by energy in motion, for good or ill.",
+    "career_meaning": "Professionally, the Knight of Swords suggests clarity of thinking and decisions, shaped by active pursuit of a goal.",
+    "money_meaning": "Financially, the Knight of Swords suggests careful, rational planning, tempered by active pursuit of a goal.",
+    "general_meaning": "The Knight of Swords reflects active pursuit of a goal, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/knight-of-swords.svg"
+  },
+  {
+    "id": 63,
+    "name": "Queen of Swords",
+    "slug": "queen-of-swords",
+    "arcana": "minor",
+    "number": 13,
+    "suit": "Swords",
+    "upright_keywords": [
+      "mature, inward mastery",
+      "air"
+    ],
+    "reversed_keywords": [
+      "nurturing command of this suit's domain"
+    ],
+    "upright_meaning": "The Queen of Swords reflects mature, inward mastery, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the Queen of Swords can suggest the shadow side of mature, inward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Queen of Swords points to honest communication, colored by nurturing command of this suit's domain.",
+    "career_meaning": "Professionally, the Queen of Swords suggests clarity of thinking and decisions, shaped by mature, inward mastery.",
+    "money_meaning": "Financially, the Queen of Swords suggests careful, rational planning, tempered by mature, inward mastery.",
+    "general_meaning": "The Queen of Swords reflects mature, inward mastery, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/queen-of-swords.svg"
+  },
+  {
+    "id": 64,
+    "name": "King of Swords",
+    "slug": "king-of-swords",
+    "arcana": "minor",
+    "number": 14,
+    "suit": "Swords",
+    "upright_keywords": [
+      "mature, outward mastery",
+      "air"
+    ],
+    "reversed_keywords": [
+      "confident authority in this suit's domain"
+    ],
+    "upright_meaning": "The King of Swords reflects mature, outward mastery, connected to thought, communication, and conflict (air energy).",
+    "reversed_meaning": "Reversed, the King of Swords can suggest the shadow side of mature, outward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the King of Swords points to honest communication, colored by confident authority in this suit's domain.",
+    "career_meaning": "Professionally, the King of Swords suggests clarity of thinking and decisions, shaped by mature, outward mastery.",
+    "money_meaning": "Financially, the King of Swords suggests careful, rational planning, tempered by mature, outward mastery.",
+    "general_meaning": "The King of Swords reflects mature, outward mastery, connected to thought, communication, and conflict (air energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/king-of-swords.svg"
+  },
+  {
+    "id": 65,
+    "name": "Ace of Pentacles",
+    "slug": "ace-of-pentacles",
+    "arcana": "minor",
+    "number": 1,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "new beginning",
+      "raw potential",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "a fresh opportunity worth noticing"
+    ],
+    "upright_meaning": "The Ace of Pentacles reflects new beginning and raw potential, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Ace of Pentacles can suggest the shadow side of new beginning and raw potential \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ace of Pentacles points to practical commitment and security, colored by a fresh opportunity worth noticing.",
+    "career_meaning": "Professionally, the Ace of Pentacles suggests tangible progress and results, shaped by new beginning and raw potential.",
+    "money_meaning": "Financially, the Ace of Pentacles suggests stability and long-term security, tempered by new beginning and raw potential.",
+    "general_meaning": "The Ace of Pentacles reflects new beginning and raw potential, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ace-of-pentacles.svg"
+  },
+  {
+    "id": 66,
+    "name": "Two of Pentacles",
+    "slug": "two-of-pentacles",
+    "arcana": "minor",
+    "number": 2,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "balance, choice, or partnership",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "weighing two paths",
+      "people"
+    ],
+    "upright_meaning": "The Two of Pentacles reflects balance, choice, or partnership, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Two of Pentacles can suggest the shadow side of balance, choice, or partnership \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Two of Pentacles points to practical commitment and security, colored by weighing two paths or people.",
+    "career_meaning": "Professionally, the Two of Pentacles suggests tangible progress and results, shaped by balance, choice, or partnership.",
+    "money_meaning": "Financially, the Two of Pentacles suggests stability and long-term security, tempered by balance, choice, or partnership.",
+    "general_meaning": "The Two of Pentacles reflects balance, choice, or partnership, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/two-of-pentacles.svg"
+  },
+  {
+    "id": 67,
+    "name": "Three of Pentacles",
+    "slug": "three-of-pentacles",
+    "arcana": "minor",
+    "number": 3,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "early growth",
+      "collaboration",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "the first visible results of effort"
+    ],
+    "upright_meaning": "The Three of Pentacles reflects early growth and collaboration, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Three of Pentacles can suggest the shadow side of early growth and collaboration \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Three of Pentacles points to practical commitment and security, colored by the first visible results of effort.",
+    "career_meaning": "Professionally, the Three of Pentacles suggests tangible progress and results, shaped by early growth and collaboration.",
+    "money_meaning": "Financially, the Three of Pentacles suggests stability and long-term security, tempered by early growth and collaboration.",
+    "general_meaning": "The Three of Pentacles reflects early growth and collaboration, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/three-of-pentacles.svg"
+  },
+  {
+    "id": 68,
+    "name": "Four of Pentacles",
+    "slug": "four-of-pentacles",
+    "arcana": "minor",
+    "number": 4,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "stability",
+      "a pause to consolidate",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "a foundation worth protecting"
+    ],
+    "upright_meaning": "The Four of Pentacles reflects stability and a pause to consolidate, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Four of Pentacles can suggest the shadow side of stability and a pause to consolidate \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Four of Pentacles points to practical commitment and security, colored by a foundation worth protecting.",
+    "career_meaning": "Professionally, the Four of Pentacles suggests tangible progress and results, shaped by stability and a pause to consolidate.",
+    "money_meaning": "Financially, the Four of Pentacles suggests stability and long-term security, tempered by stability and a pause to consolidate.",
+    "general_meaning": "The Four of Pentacles reflects stability and a pause to consolidate, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/four-of-pentacles.svg"
+  },
+  {
+    "id": 69,
+    "name": "Five of Pentacles",
+    "slug": "five-of-pentacles",
+    "arcana": "minor",
+    "number": 5,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "tension, conflict, or challenge",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "friction that asks for a response"
+    ],
+    "upright_meaning": "The Five of Pentacles reflects tension, conflict, or challenge, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Five of Pentacles can suggest the shadow side of tension, conflict, or challenge \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Five of Pentacles points to practical commitment and security, colored by friction that asks for a response.",
+    "career_meaning": "Professionally, the Five of Pentacles suggests tangible progress and results, shaped by tension, conflict, or challenge.",
+    "money_meaning": "Financially, the Five of Pentacles suggests stability and long-term security, tempered by tension, conflict, or challenge.",
+    "general_meaning": "The Five of Pentacles reflects tension, conflict, or challenge, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/five-of-pentacles.svg"
+  },
+  {
+    "id": 70,
+    "name": "Six of Pentacles",
+    "slug": "six-of-pentacles",
+    "arcana": "minor",
+    "number": 6,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "cooperation",
+      "moving past difficulty",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "support, generosity,",
+      "progress"
+    ],
+    "upright_meaning": "The Six of Pentacles reflects cooperation and moving past difficulty, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Six of Pentacles can suggest the shadow side of cooperation and moving past difficulty \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Six of Pentacles points to practical commitment and security, colored by support, generosity, or progress.",
+    "career_meaning": "Professionally, the Six of Pentacles suggests tangible progress and results, shaped by cooperation and moving past difficulty.",
+    "money_meaning": "Financially, the Six of Pentacles suggests stability and long-term security, tempered by cooperation and moving past difficulty.",
+    "general_meaning": "The Six of Pentacles reflects cooperation and moving past difficulty, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/six-of-pentacles.svg"
+  },
+  {
+    "id": 71,
+    "name": "Seven of Pentacles",
+    "slug": "seven-of-pentacles",
+    "arcana": "minor",
+    "number": 7,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "assessment",
+      "perseverance",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "a moment to evaluate your approach"
+    ],
+    "upright_meaning": "The Seven of Pentacles reflects assessment and perseverance, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Seven of Pentacles can suggest the shadow side of assessment and perseverance \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Seven of Pentacles points to practical commitment and security, colored by a moment to evaluate your approach.",
+    "career_meaning": "Professionally, the Seven of Pentacles suggests tangible progress and results, shaped by assessment and perseverance.",
+    "money_meaning": "Financially, the Seven of Pentacles suggests stability and long-term security, tempered by assessment and perseverance.",
+    "general_meaning": "The Seven of Pentacles reflects assessment and perseverance, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/seven-of-pentacles.svg"
+  },
+  {
+    "id": 72,
+    "name": "Eight of Pentacles",
+    "slug": "eight-of-pentacles",
+    "arcana": "minor",
+    "number": 8,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "movement, focus, or restriction",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "swift change",
+      "a narrowing of options"
+    ],
+    "upright_meaning": "The Eight of Pentacles reflects movement, focus, or restriction, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Eight of Pentacles can suggest the shadow side of movement, focus, or restriction \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Eight of Pentacles points to practical commitment and security, colored by swift change or a narrowing of options.",
+    "career_meaning": "Professionally, the Eight of Pentacles suggests tangible progress and results, shaped by movement, focus, or restriction.",
+    "money_meaning": "Financially, the Eight of Pentacles suggests stability and long-term security, tempered by movement, focus, or restriction.",
+    "general_meaning": "The Eight of Pentacles reflects movement, focus, or restriction, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning no",
+    "image_url": "/tarot/minor/eight-of-pentacles.svg"
+  },
+  {
+    "id": 73,
+    "name": "Nine of Pentacles",
+    "slug": "nine-of-pentacles",
+    "arcana": "minor",
+    "number": 9,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "resilience near the end of a cycle",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "strength gathered from experience"
+    ],
+    "upright_meaning": "The Nine of Pentacles reflects resilience near the end of a cycle, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Nine of Pentacles can suggest the shadow side of resilience near the end of a cycle \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Nine of Pentacles points to practical commitment and security, colored by strength gathered from experience.",
+    "career_meaning": "Professionally, the Nine of Pentacles suggests tangible progress and results, shaped by resilience near the end of a cycle.",
+    "money_meaning": "Financially, the Nine of Pentacles suggests stability and long-term security, tempered by resilience near the end of a cycle.",
+    "general_meaning": "The Nine of Pentacles reflects resilience near the end of a cycle, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/nine-of-pentacles.svg"
+  },
+  {
+    "id": 74,
+    "name": "Ten of Pentacles",
+    "slug": "ten-of-pentacles",
+    "arcana": "minor",
+    "number": 10,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "culmination, for better or worse",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "the full weight of where this cycle has led"
+    ],
+    "upright_meaning": "The Ten of Pentacles reflects culmination, for better or worse, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Ten of Pentacles can suggest the shadow side of culmination, for better or worse \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Ten of Pentacles points to practical commitment and security, colored by the full weight of where this cycle has led.",
+    "career_meaning": "Professionally, the Ten of Pentacles suggests tangible progress and results, shaped by culmination, for better or worse.",
+    "money_meaning": "Financially, the Ten of Pentacles suggests stability and long-term security, tempered by culmination, for better or worse.",
+    "general_meaning": "The Ten of Pentacles reflects culmination, for better or worse, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/ten-of-pentacles.svg"
+  },
+  {
+    "id": 75,
+    "name": "Page of Pentacles",
+    "slug": "page-of-pentacles",
+    "arcana": "minor",
+    "number": 11,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "a curious, early-stage message or energy",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "a student's openness to learning"
+    ],
+    "upright_meaning": "The Page of Pentacles reflects a curious, early-stage message or energy, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Page of Pentacles can suggest the shadow side of a curious, early-stage message or energy \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Page of Pentacles points to practical commitment and security, colored by a student's openness to learning.",
+    "career_meaning": "Professionally, the Page of Pentacles suggests tangible progress and results, shaped by a curious, early-stage message or energy.",
+    "money_meaning": "Financially, the Page of Pentacles suggests stability and long-term security, tempered by a curious, early-stage message or energy.",
+    "general_meaning": "The Page of Pentacles reflects a curious, early-stage message or energy, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/page-of-pentacles.svg"
+  },
+  {
+    "id": 76,
+    "name": "Knight of Pentacles",
+    "slug": "knight-of-pentacles",
+    "arcana": "minor",
+    "number": 12,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "active pursuit of a goal",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "energy in motion, for good",
+      "ill"
+    ],
+    "upright_meaning": "The Knight of Pentacles reflects active pursuit of a goal, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Knight of Pentacles can suggest the shadow side of active pursuit of a goal \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Knight of Pentacles points to practical commitment and security, colored by energy in motion, for good or ill.",
+    "career_meaning": "Professionally, the Knight of Pentacles suggests tangible progress and results, shaped by active pursuit of a goal.",
+    "money_meaning": "Financially, the Knight of Pentacles suggests stability and long-term security, tempered by active pursuit of a goal.",
+    "general_meaning": "The Knight of Pentacles reflects active pursuit of a goal, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "unclear",
+    "image_url": "/tarot/minor/knight-of-pentacles.svg"
+  },
+  {
+    "id": 77,
+    "name": "Queen of Pentacles",
+    "slug": "queen-of-pentacles",
+    "arcana": "minor",
+    "number": 13,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "mature, inward mastery",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "nurturing command of this suit's domain"
+    ],
+    "upright_meaning": "The Queen of Pentacles reflects mature, inward mastery, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the Queen of Pentacles can suggest the shadow side of mature, inward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the Queen of Pentacles points to practical commitment and security, colored by nurturing command of this suit's domain.",
+    "career_meaning": "Professionally, the Queen of Pentacles suggests tangible progress and results, shaped by mature, inward mastery.",
+    "money_meaning": "Financially, the Queen of Pentacles suggests stability and long-term security, tempered by mature, inward mastery.",
+    "general_meaning": "The Queen of Pentacles reflects mature, inward mastery, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "leaning yes",
+    "image_url": "/tarot/minor/queen-of-pentacles.svg"
+  },
+  {
+    "id": 78,
+    "name": "King of Pentacles",
+    "slug": "king-of-pentacles",
+    "arcana": "minor",
+    "number": 14,
+    "suit": "Pentacles",
+    "upright_keywords": [
+      "mature, outward mastery",
+      "earth"
+    ],
+    "reversed_keywords": [
+      "confident authority in this suit's domain"
+    ],
+    "upright_meaning": "The King of Pentacles reflects mature, outward mastery, connected to material matters, work, and stability (earth energy).",
+    "reversed_meaning": "Reversed, the King of Pentacles can suggest the shadow side of mature, outward mastery \u2014 delayed, blocked, or turned inward.",
+    "love_meaning": "In matters of the heart, the King of Pentacles points to practical commitment and security, colored by confident authority in this suit's domain.",
+    "career_meaning": "Professionally, the King of Pentacles suggests tangible progress and results, shaped by mature, outward mastery.",
+    "money_meaning": "Financially, the King of Pentacles suggests stability and long-term security, tempered by mature, outward mastery.",
+    "general_meaning": "The King of Pentacles reflects mature, outward mastery, connected to material matters, work, and stability (earth energy).",
+    "yes_no_tendency": "yes",
+    "image_url": "/tarot/minor/king-of-pentacles.svg"
+  }
+]
