@@ -12,21 +12,21 @@ export interface Product {
 // without a redeploy.
 export const PRODUCTS: Product[] = [
   {
-    id: 'seven-card-reading',
+    id: 'price_1Tz5fOHgWvC9oWamlGLq2pco',
     name: '7-Card Deep Dive Reading',
     description: 'A detailed spread covering your situation, influences, challenges, and possible direction.',
     priceUsdCents: 199,
     currency: 'usd',
   },
   {
-    id: 'relationship-deep-dive',
+    id: 'price_1Tz5gFHgWvC9oWamnL4yujp8',
     name: 'Relationship Deep Dive',
     description: 'An in-depth spread focused on the dynamics, energy, and possible direction of a specific relationship.',
     priceUsdCents: 299,
     currency: 'usd',
   },
   {
-    id: 'future-path-reading',
+    id: 'price_1Tz5grHgWvC9oWamfmhw4GgQ',
     name: 'Future Path Reading',
     description: 'An expanded spread exploring potential paths ahead across the areas that matter most to you.',
     priceUsdCents: 499,
